@@ -1,6 +1,6 @@
 # art-catalog-site
 
-> A site that organizes art collections
+> A site that organises art collections
 
 
 
